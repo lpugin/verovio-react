@@ -1,2 +1,7 @@
 # verovio-react
-A basic example running verovio in react
+A basic example running Verovio in React
+
+Run:
+  
+    $npm install
+    $npm start
